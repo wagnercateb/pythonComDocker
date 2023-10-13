@@ -1,0 +1,159 @@
+[33mcommit fb3bcadcb41afbb9ff484adf95bdc9ff3099fc56[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 18f2ed8 ab14478
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Sat Oct 31 10:58:27 2020 -0400
+
+    Merge pull request #12 from ibnesayeed/docs
+    
+    Improve documentation wordings
+
+[33mcommit ab14478bc679883d0f911485690972c97291d49a[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Sat Oct 31 10:56:08 2020 -0400
+
+    Improve documentation wordings
+
+[33mcommit 18f2ed8b307f003742e75514d415ecb1d2b3125e[m
+Merge: 7aeffad 0ef0c2f
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Thu Jan 2 10:01:30 2020 -0500
+
+    Merge pull request #8 from laurensknoll/master
+    
+    Master/Step6 Ruby version patch
+
+[33mcommit 0ef0c2f41fb2dca09a4e5a79b090c9586ddea62b[m
+Author: Laurens Knoll <laurensknoll@binx.io>
+Date:   Thu Jan 2 10:00:50 2020 +0100
+
+    Set Ruby image to Ruby:2.6 due to issues with bundle install in the latest (2.7) version.
+
+[33mcommit 7aeffadec72c12c4a45e4dcecdca87c950009037[m
+Merge: bd86b5e cb03e11
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Thu Feb 21 10:43:03 2019 -0500
+
+    Merge pull request #5 from avinashdesireddy/master
+    
+    Update primary README of the master branch
+
+[33mcommit cb03e11abbc8cd01eba2ed2bbb0e0ad195cae9af[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Thu Feb 21 09:37:17 2019 -0600
+
+    Apply suggestions from code review
+    
+    Co-Authored-By: avinashdesireddy <47186096+avinashdesireddy@users.noreply.github.com>
+
+[33mcommit 39ed016a10832efa9abe8e41f62e1ada0446f905[m
+Author: Avinash Desireddy <47186096+avinashdesireddy@users.noreply.github.com>
+Date:   Wed Feb 20 17:17:51 2019 -0600
+
+    Organized README
+    
+    Play-with-docker reference is added and organized the references.
+
+[33mcommit bd86b5e42bb078ba1b15ec47378840a632921bb6[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Wed Sep 26 17:26:45 2018 -0400
+
+    Cleanup in the branch synchronizer script
+
+[33mcommit dd3e73f7e31dbe283ac9533a3f0c0281b209615d[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Sep 25 21:53:10 2018 -0400
+
+    Add a branch synchronizer script
+
+[33mcommit 1d6033af752f1cac8e933296f68c1d6932a1954f[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Sep 25 21:20:35 2018 -0400
+
+    Change tags of images in compose file
+
+[33mcommit 8634683bc76f9efc83698a75cb1680752a68ce58[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Sep 25 21:08:41 2018 -0400
+
+    Parametrize redis connection using environment variable
+
+[33mcommit 256ca66c1a89729b08a2a27c88312803d845ecd8[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Sep 25 19:58:25 2018 -0400
+
+    Add tag to base images
+
+[33mcommit 00ce54ae353823089bf722218fdacf3c00342bc8[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Sat Sep 22 19:06:03 2018 -0400
+
+    Disable path traversal protection and report full URI
+
+[33mcommit 021afedee6bfbd18d4374cdad8f9e62cfb0220b7[m
+Merge: 5a3109c 4e45f37
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Wed Nov 29 14:47:03 2017 -0500
+
+    Merge pull request #1 from machawk1/patch-1
+    
+    Fix plurality
+
+[33mcommit 4e45f37420250af863cf3570913149b9f5f2ba07[m
+Author: Mat Kelly <machawk1@gmail.com>
+Date:   Wed Nov 29 11:08:08 2017 -0500
+
+    Fix plurality
+
+[33mcommit 5a3109c82d37a4c2f683e1ba1bd3649b998c0a8b[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:50:18 2017 -0500
+
+    Step6 added
+
+[33mcommit 6de60c380afdcfaf1f935a149c026a996f1533ff[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:50:05 2017 -0500
+
+    Step5 added
+
+[33mcommit a5b6764a209c9f0620a247b6aa26c40ca3c40995[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:46:01 2017 -0500
+
+    Step4 added
+
+[33mcommit 49a27ef362fe29f81d5554b499602dc251c3b18e[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:43:33 2017 -0500
+
+    Step3 added
+
+[33mcommit 932506a77a83ca92d9d4766518e634108d4e38fa[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:43:09 2017 -0500
+
+    Step2 added
+
+[33mcommit 78d6adf423e8dee6e5fe95b456e259d9e652e274[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:42:48 2017 -0500
+
+    Step1 added
+
+[33mcommit e9ba00d57ebe189a61fc10b1e3dddd779abc523d[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:41:55 2017 -0500
+
+    Step0 added
+
+[33mcommit 64f6e25212553f7ad5c67818c75006534194b1cc[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:39:38 2017 -0500
+
+    Updated main README
+
+[33mcommit 38763294956d12b2e9cce95e2a7c2b9b45dddfcb[m
+Author: Sawood Alam <ibnesayeed@gmail.com>
+Date:   Tue Nov 28 22:25:58 2017 -0500
+
+    Initial commit
